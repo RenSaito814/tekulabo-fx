@@ -11,6 +11,8 @@ tags:
   - トレード日誌
   - メンタル管理
   - 自己管理
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

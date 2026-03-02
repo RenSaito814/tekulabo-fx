@@ -12,6 +12,8 @@ tags:
   - MACD
   - ボリンジャーバンド
   - インジケーター
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

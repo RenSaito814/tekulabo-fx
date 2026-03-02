@@ -10,6 +10,8 @@ tags:
   - 通貨ペア
   - レバレッジ
   - スプレッド
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

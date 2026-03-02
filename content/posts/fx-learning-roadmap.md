@@ -13,6 +13,8 @@ tags:
   - リスク管理
   - デモトレード
   - バックテスト
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

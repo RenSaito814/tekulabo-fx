@@ -11,6 +11,8 @@ tags:
   - 検証
   - 勝率
   - ドローダウン
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

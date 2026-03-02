@@ -12,6 +12,8 @@ tags:
   - MT4
   - MT5
   - TradingView
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

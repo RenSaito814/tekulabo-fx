@@ -11,6 +11,8 @@ tags:
   - エントリー
   - 決済ルール
   - 中級者向け
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 

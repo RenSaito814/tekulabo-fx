@@ -11,6 +11,8 @@ tags:
   - 金融政策
   - 雇用統計
   - 中央銀行
+series:
+  - FX初心者ロードマップ
 ShowToc: true
 ---
 
