@@ -10,6 +10,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+hasCJKLanguage: true
 
 minify:
   disableXML: true
