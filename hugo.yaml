@@ -54,7 +54,9 @@ params:
       FXトレードの技術と戦略を体系的に解説するブログです。
       テクニカル分析、自動売買、リスク管理など、実践的な情報を発信しています。
 
-  socialIcons: []
+  socialIcons:
+    - name: x
+      url: "https://x.com/hayate_tekulabo"
 
   cover:
     hidden: false
