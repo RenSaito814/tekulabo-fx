@@ -1,0 +1,4 @@
+- id: read_time
+  translation:
+    one: "約 1 分で読めます"
+    other: "約 {{ .Count }} 分で読めます"
