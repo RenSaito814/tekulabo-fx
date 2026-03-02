@@ -2,7 +2,6 @@
 title: "FX口座の選び方とデモトレードの始め方を初心者向けに解説"
 date: 2026-02-21
 draft: false
-weight: 3
 summary: "【ロードマップ Step 2】FXを始めるには口座開設が必要です。ブローカーの選び方のポイント、デモ口座の活用法、MT4/MT5やTradingViewなど取引ツールの基本を初心者向けに解説します。"
 categories:
   - FX基礎知識

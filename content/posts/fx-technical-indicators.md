@@ -2,7 +2,6 @@
 title: "FXテクニカル指標入門 - 移動平均線・RSI・MACDの使い方"
 date: 2026-02-23
 draft: false
-weight: 5
 summary: "【ロードマップ Step 4】FXで使われる代表的なテクニカル指標（インジケーター）を初心者向けに解説。移動平均線、RSI、MACD、ボリンジャーバンドの基本的な見方と使い方を学びましょう。"
 categories:
   - テクニカル分析
