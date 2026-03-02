@@ -20,7 +20,7 @@
 `main`ブランチにpushすると、Cloudflare Pagesが自動でビルド・デプロイする。
 
 ```bash
-cd /mnt/c/Users/perot/Documents/tekulabo-fx
+cd /mnt/c/Users/perot/Documents/kane儲け.com/tekulabo-fx
 git add <files>
 git commit -m "メッセージ"
 git push
@@ -33,13 +33,13 @@ OP="/mnt/c/Users/perot/AppData/Local/Microsoft/WinGet/Packages/AgileBits.1Passwo
 CF_TOKEN=$("$OP" read "op://Personal/Cloudflare API/api_token" 2>/dev/null | tr -d '\r\n')
 export CLOUDFLARE_API_TOKEN="$CF_TOKEN"
 export CLOUDFLARE_ACCOUNT_ID="2b581d249dfe32509080589d3e8ccc70"
-cd /mnt/c/Users/perot/Documents/tekulabo-fx && hugo && wrangler pages deploy public --project-name=tekulabo-fx --branch=main
+cd /mnt/c/Users/perot/Documents/kane儲け.com/tekulabo-fx && hugo && wrangler pages deploy public --project-name=tekulabo-fx --branch=main
 ```
 
 ### ローカルプレビュー
 
 ```bash
-cd /mnt/c/Users/perot/Documents/tekulabo-fx && hugo server -D
+cd /mnt/c/Users/perot/Documents/kane儲け.com/tekulabo-fx && hugo server -D
 ```
 `-D` でドラフト記事も含めてプレビュー。http://localhost:1313 でアクセス。
 
