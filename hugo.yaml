@@ -54,7 +54,7 @@ params:
   label:
     text: "テクラボFX"
     icon: /logo.png
-    iconHeight: 35
+    iconHeight: 48
 
   homeInfoParams:
     Title: "テクラボFX"
