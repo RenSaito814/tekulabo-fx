@@ -1,4 +1,4 @@
-.dark .logo img {
+[data-theme="dark"] .logo img {
     --logo-filter: brightness(0) invert(1);
     filter: var(--logo-filter);
 }
