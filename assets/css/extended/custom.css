@@ -1,7 +1,11 @@
 .dark .logo img {
-    filter: invert(1);
+    filter: brightness(0) invert(1);
 }
 
 .logo a {
     font-size: 28px;
+}
+
+.logo img {
+    vertical-align: middle;
 }
