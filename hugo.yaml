@@ -52,9 +52,9 @@ params:
     apple_touch_icon: /apple-touch-icon.png
 
   label:
-    text: "テクラボFX"
+    text: ""
     icon: /logo-light.png
-    iconHeight: 56
+    iconHeight: 48
 
   homeInfoParams:
     Title: "テクラボFX"
