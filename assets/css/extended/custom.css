@@ -8,22 +8,4 @@
 
 .logo img {
     vertical-align: middle;
-    margin-top: 14px;
-    margin-right: -20px;
-}
-
-/* PC: ロゴ2px上げ、テキストをロゴに近づける */
-@media (min-width: 768px) {
-    .logo img {
-        margin-top: 12px;
-        margin-right: -24px;
-    }
-}
-
-/* スマホ: テキストとモード切替を左寄せ */
-@media (max-width: 767px) {
-    .nav {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
 }
