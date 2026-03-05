@@ -209,6 +209,11 @@ ShowToc: true
 
 すべてを深く理解する必要はありません。まずは**米国の雇用統計とFRBの金融政策**に注目するところから始めてみましょう。
 
+### さらに深掘り
+
+- [米国雇用統計（NFP）の完全ガイド - FXトレーダーが知るべき読み方と戦略](/posts/fx-nfp-trading-guide/)
+- [FOMC完全ガイド - FRBの金融政策がFX相場を動かす仕組み](/posts/fx-fomc-guide/)
+
 ファンダメンタルズの次は、[リスク管理の基本](/posts/fx-risk-management/)を学んで、資金を守る技術を身につけましょう。
 
 学習全体の流れ：[FX初心者が稼げるようになるまでのロードマップ](/posts/fx-learning-roadmap/)
