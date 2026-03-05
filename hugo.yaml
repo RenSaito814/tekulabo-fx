@@ -52,7 +52,7 @@ params:
     apple_touch_icon: /apple-touch-icon.png
 
   label:
-    text: ""
+    text: " "
     icon: /logo-light.png
     iconHeight: 48
 
