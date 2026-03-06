@@ -115,7 +115,7 @@ FXの取引ツールには大きく分けて2種類あります。
 
 **MT4**は歴史が長く、カスタム指標や自動売買プログラム（EA）の資産が豊富です。**MT5**はMT4の後継で機能が拡張されていますが、MT4用のEAとは互換性がありません。
 
-初心者は**ブローカーが提供しているバージョン**を使えば問題ありません。
+初心者は**ブローカーが提供しているバージョン**を使えば問題ありません。国内でMT4を使いたい場合は<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2M2ICY+48D0+68EPE" rel="nofollow">FXTF</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZA44+2M2ICY+48D0+68EPE" alt="">が対応しています。
 
 ### TradingView
 
