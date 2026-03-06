@@ -2,3 +2,45 @@
     --logo-filter: brightness(0) invert(1);
     filter: var(--logo-filter);
 }
+
+.broker-cta {
+    background: #f0f7ff;
+    border: 1px solid #d0e3f7;
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin: 32px 0;
+}
+
+.broker-cta-title {
+    font-weight: bold;
+    font-size: 1.05em;
+    margin: 0 0 8px 0;
+}
+
+.broker-cta-desc {
+    margin: 0 0 12px 0;
+    font-size: 0.95em;
+    color: #444;
+}
+
+.broker-cta-link {
+    margin: 0;
+}
+
+.broker-cta-link a {
+    color: #1d4ed8;
+    font-weight: bold;
+}
+
+[data-theme="dark"] .broker-cta {
+    background: #1e293b;
+    border-color: #334155;
+}
+
+[data-theme="dark"] .broker-cta-desc {
+    color: #94a3b8;
+}
+
+[data-theme="dark"] .broker-cta-link a {
+    color: #60a5fa;
+}

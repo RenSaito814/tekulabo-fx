@@ -295,4 +295,6 @@ USD/JPY = 150円で1万通貨取引する場合:
 
 ---
 
+{{< broker-cta >}}
+
 {{< disclaimer >}}
