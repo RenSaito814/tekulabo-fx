@@ -4,7 +4,7 @@
 
 ## 優先度: 高
 
-- [ ] Google Search Console登録・サイトマップ送信
+- [x] Google Search Console登録・サイトマップ送信
 - [ ] X Developer Portal登録（ポータル復旧待ち）
 - [ ] X API自動投稿スクリプト作成
 

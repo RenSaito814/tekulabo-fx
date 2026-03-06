@@ -63,9 +63,9 @@
 
 ### 集客
 
+- [x] Google Search Console登録・サイトマップ送信
 - [ ] X（Twitter）アカウント運用
 - [ ] X API連携・自動投稿
-- [ ] Google Search Console登録・サイトマップ送信
 
 ## フェーズ4: 拡張 [未着手]
 
