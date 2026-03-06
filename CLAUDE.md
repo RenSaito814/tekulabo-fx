@@ -82,6 +82,12 @@ tekulabo-fx/
 │   ├── search.md          # /search/ (PaperMod検索機能)
 │   └── posts/             # 記事フォルダ
 │       └── *.md
+├── plan/                  # 計画・進捗管理
+│   ├── requirements.md    # 要件定義
+│   ├── progress.md        # 進捗状況
+│   ├── tasks.md           # タスクリスト
+│   ├── decisions.md       # 設計判断の記録
+│   └── affiliate-links.md # アフィリエイトリンク管理
 ├── static/                # 静的ファイル（画像等）
 └── themes/
     └── PaperMod/          # git submodule
@@ -152,6 +158,37 @@ ShowToc: true
 
 ---
 
+## planフォルダの管理
+
+プロジェクトの計画・進捗・判断記録を `plan/` フォルダで管理する。
+
+### フォルダ構成
+
+```
+plan/
+├── requirements.md       # 要件定義（サイト目的、対象読者、収益化要件）
+├── progress.md           # 進捗状況（フェーズ別の完了・未完了）
+├── tasks.md              # タスクリスト（優先度別）
+├── decisions.md          # 設計判断の記録（技術選定、戦略決定等）
+└── affiliate-links.md    # アフィリエイトリンク管理（テンプレート、配置状況）
+```
+
+### 更新タイミング
+
+- 記事追加時: progress.md の記事リストを更新
+- アフィリエイトリンク配置時: affiliate-links.md の配置済み記事を更新
+- タスク完了時: tasks.md, progress.md を更新
+- 技術・戦略の判断時: decisions.md に記録
+- マイルストーン達成時: 全ドキュメントを見直し
+
+### コミットルール
+
+- planフォルダの更新は独立したコミットとする
+- コミットメッセージのスコープは「計画」を使用
+- 例: `文書(計画): 進捗・タスクを最新状態に更新`
+
+---
+
 ## コミットルール
 
 kane儲け.comプロジェクトのCLAUDE.mdに準拠。日本語コミットメッセージ。
@@ -160,4 +197,5 @@ kane儲け.comプロジェクトのCLAUDE.mdに準拠。日本語コミットメ
 機能(ブログ): 新記事を追加
 文書(ブログ): Aboutページを更新
 修正(ブログ): OGP設定を修正
+文書(計画): 進捗・タスクを更新
 ```
