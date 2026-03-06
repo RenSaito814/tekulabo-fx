@@ -58,7 +58,7 @@ ShowToc: true
 
 ### 用意するもの
 
-- **デモ口座**（[口座開設の記事](/posts/fx-broker-guide/)で設定したもの）
+- **デモ口座**（[口座開設の記事](/posts/fx-broker-guide/)で設定したもの。まだの方は<a href="https://px.a8.net/svt/ejp?a8mat=4AZA43+4784FM+1WP2+6BMG2" rel="nofollow">DMM FX</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZA43+4784FM+1WP2+6BMG2" alt="">などで開設できます）
 - **トレードルールシート**（[戦略構築の記事](/posts/fx-trading-strategy/)で作成したもの）
 - **トレード日誌**（後述のテンプレートを使用）
 
