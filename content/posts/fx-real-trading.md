@@ -55,7 +55,7 @@ ShowToc: true
 
 ## ステップ1：最小ロットから始める
 
-リアルトレードは**最小ロット（1,000通貨）**から始めましょう。まだリアル口座を持っていない方は<a href="https://px.a8.net/svt/ejp?a8mat=4AZA43+4784FM+1WP2+6JC82" rel="nofollow">DMM FX</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZA43+4784FM+1WP2+6JC82" alt="">など、1,000通貨から取引できるブローカーがおすすめです。
+リアルトレードは**最小ロット（1,000通貨）**から始めましょう。<a href="https://px.a8.net/svt/ejp?a8mat=4AZA43+4784FM+1WP2+6JC82" rel="nofollow">DMM FX</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZA43+4784FM+1WP2+6JC82" alt="">のミニ通貨ペアなら1,000通貨から取引でき、ツールの操作性も優れているため初心者のリアルデビューに適しています。
 
 ### なぜ最小ロットなのか
 
