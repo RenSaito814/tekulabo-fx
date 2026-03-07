@@ -129,6 +129,6 @@ menu:
 markup:
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
   highlight:
     noClasses: false
