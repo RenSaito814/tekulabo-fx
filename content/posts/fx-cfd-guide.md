@@ -154,6 +154,10 @@ FXで基礎を固めた上でCFDにも視野を広げると、トレーダーと
 
 ---
 
+{{< broker-card-dmm-cfd >}}
+
+{{< broker-card-tossy >}}
+
 {{< broker-cta >}}
 
 {{< disclaimer >}}

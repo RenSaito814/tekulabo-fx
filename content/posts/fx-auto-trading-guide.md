@@ -174,6 +174,10 @@ FXの自動売買にはいくつかの方式があります。
 
 ---
 
+{{< broker-card-fxtf >}}
+
+{{< broker-card-sistrade >}}
+
 {{< broker-cta >}}
 
 {{< disclaimer >}}

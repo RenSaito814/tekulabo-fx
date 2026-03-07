@@ -213,6 +213,8 @@ FXの学習は長い道のりですが、このロードマップに沿って一
 
 ---
 
+{{< broker-card-dmm >}}
+
 {{< broker-cta >}}
 
 {{< disclaimer >}}

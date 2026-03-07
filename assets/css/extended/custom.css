@@ -90,6 +90,16 @@
     color: #5b21b6;
 }
 
+.broker-card-badge--cfd {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.broker-card-badge--auto {
+    background: #fff7ed;
+    color: #9a3412;
+}
+
 .broker-card-points {
     list-style: none;
     padding: 0;
@@ -167,4 +177,14 @@
 [data-theme="dark"] .broker-card-badge--pro {
     background: #2e1065;
     color: #c4b5fd;
+}
+
+[data-theme="dark"] .broker-card-badge--cfd {
+    background: #052e16;
+    color: #86efac;
+}
+
+[data-theme="dark"] .broker-card-badge--auto {
+    background: #431407;
+    color: #fdba74;
 }
