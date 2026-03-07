@@ -1,6 +1,6 @@
 # テクラボFX - タスクリスト
 
-最終更新: 2026-03-06
+最終更新: 2026-03-07
 
 ## 優先度: 高
 
@@ -27,8 +27,5 @@
 |--------|-----------------|-----------------|
 | 移動平均線クロス戦略 | fx-ma-cross-strategy | - |
 | フィボナッチ入門 | fx-fibonacci-guide | - |
-| スキャルピング入門 | fx-scalping-guide | - |
 | デイトレード入門 | fx-daytrading-guide | - |
 | 週末分析の習慣 | fx-weekend-analysis | - |
-| MT4の使い方 | fx-mt4-setup-guide | FXTF |
-| 資産運用の選択肢比較 | fx-investment-comparison | TOSSY |

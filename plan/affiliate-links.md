@@ -1,6 +1,6 @@
 # テクラボFX - アフィリエイトリンク管理
 
-最終更新: 2026-03-06
+最終更新: 2026-03-07
 
 ## ASP: A8.net
 
@@ -66,6 +66,7 @@
 | fx-broker-guide | MT4/MT5セクション |
 | fx-broker-comparison | 比較表・詳細・目的別おすすめ（計3箇所） |
 | fx-auto-trading-guide | EA（Expert Advisor）セクション |
+| fx-mt4-setup-guide | MT4対応ブローカー紹介セクション |
 
 #### 配置に適した文脈
 
@@ -124,6 +125,7 @@
 | 記事 | 配置箇所 |
 |------|---------|
 | fx-cfd-guide | CFDの始め方セクション |
+| fx-investment-comparison | マルチアセット投資アプリの活用セクション |
 
 #### 配置に適した文脈
 

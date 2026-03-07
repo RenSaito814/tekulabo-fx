@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-06
+最終更新: 2026-03-07
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（34記事完了）
+### 記事作成（37記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -47,6 +47,9 @@
 - [x] ブローカー比較（fx-broker-comparison）
 - [x] 自動売買入門（fx-auto-trading-guide）
 - [x] CFD入門（fx-cfd-guide）
+- [x] MT4の使い方ガイド（fx-mt4-setup-guide）
+- [x] スキャルピング入門（fx-scalping-guide）
+- [x] 投資の選択肢比較（fx-investment-comparison）
 
 ## フェーズ3: 収益化 [進行中]
 
@@ -54,9 +57,9 @@
 
 - [x] A8.net登録
 - [x] DMM FX提携・リンク配置（fx-broker-guide, fx-demo-trading, fx-real-trading, fx-lot-sizing-beginners, fx-broker-comparison）
-- [x] FXTF提携・リンク配置（fx-broker-guide, fx-broker-comparison, fx-auto-trading-guide）
+- [x] FXTF提携・リンク配置（fx-broker-guide, fx-broker-comparison, fx-auto-trading-guide, fx-mt4-setup-guide）
 - [x] シストレセレクト365提携・リンク配置（fx-auto-trading-guide）
-- [x] TOSSY提携・リンク配置（fx-cfd-guide）
+- [x] TOSSY提携・リンク配置（fx-cfd-guide, fx-investment-comparison）
 - [x] broker-ctaショートコード作成・全記事配置
 - [ ] Google AdSense申請
 - [ ] 他ASP登録（アクセストレード、afb、TCSアフィリエイト）
