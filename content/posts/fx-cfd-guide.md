@@ -136,7 +136,7 @@ FXの口座を持っていれば、同じブローカーでCFD口座を開設で
 3. **少額から取引を開始する**（FXと同じく[少額スタート](/posts/fx-real-trading/)が鉄則）
 4. **FXとCFDの資金管理を分ける**
 
-FXとCFDの両方に対応した投資アプリとして、<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2MNXYQ+1WP2+1HM30Y" rel="nofollow">TOSSY</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZA44+2MNXYQ+1WP2+1HM30Y" alt="">があります。DMM.com証券が提供するウルトラ投資アプリで、FX・CFD・株式など6つのアセットをひとつのアプリで取引できます。
+CFD専用口座としては、<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2PN3ZM+1WP2+NTJWY" rel="nofollow">DMM CFD</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZA44+2PN3ZM+1WP2+NTJWY" alt="">が取引手数料無料で株価指数・商品CFDに対応しています。また、FXとCFDの両方をまとめて取引したい場合は、同じDMM.com証券が提供するウルトラ投資アプリ<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2MNXYQ+1WP2+1HM30Y" rel="nofollow">TOSSY</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZA44+2MNXYQ+1WP2+1HM30Y" alt="">でFX・CFD・株式など6つのアセットをひとつのアプリで取引できます。
 
 ---
 
