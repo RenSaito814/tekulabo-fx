@@ -6,6 +6,13 @@ title: "テクラボFX"
 theme: PaperMod
 paginate: 10
 
+frontmatter:
+  date:
+    - date
+  lastmod:
+    - lastmod
+    - date
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
