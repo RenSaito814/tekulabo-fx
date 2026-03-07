@@ -132,3 +132,70 @@
 - CFD・マルチアセット投資の話題
 - 複数の金融商品をまとめて取引したい話題
 - FX以外の投資対象（株・暗号資産等）の話題
+
+---
+
+### DMM CFD（DMM.com証券）
+
+| 項目 | 値 |
+|------|-----|
+| 広告主 | DMM.com証券 |
+| 商品 | DMM CFD（CFD口座） |
+| 成果条件 | 新規アカウント登録＋入金 |
+| 報酬 | 14,200円 |
+
+#### テキストリンクテンプレート
+
+```html
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2PN3ZM+1WP2+NTJWY" rel="nofollow">DMM CFD</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZA44+2PN3ZM+1WP2+NTJWY" alt="">
+```
+
+#### 配置済み記事
+
+| 記事 | 配置箇所 |
+|------|---------|
+| fx-cfd-guide | CFDの始め方セクション |
+| fx-investment-comparison | CFDセクション |
+
+#### 配置に適した文脈
+
+- CFD取引全般の話題
+- 株価指数・商品CFDの話題
+- 取引手数料無料の話題
+
+---
+
+### サクソバンク証券（サクソバンク証券株式会社）
+
+| 項目 | 値 |
+|------|-----|
+| 広告主 | サクソバンク証券株式会社 |
+| 商品 | サクソバンク証券 FX口座 |
+| 成果条件 | 新規取引完了 |
+| 報酬 | 5,530円 |
+
+#### テキストリンクテンプレート
+
+**ブランド紹介用**:
+```html
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2J3CC2+5PC8+BX3J6" rel="nofollow">サクソバンク証券</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZA44+2J3CC2+5PC8+BX3J6" alt="">
+```
+
+**口座開設誘導用**:
+```html
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZA44+2J3CC2+5PC8+BWVTE" rel="nofollow">サクソバンク証券の口座開設はこちら</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZA44+2J3CC2+5PC8+BWVTE" alt="">
+```
+
+#### 配置済み記事
+
+| 記事 | 配置箇所 |
+|------|---------|
+| fx-broker-comparison | 比較表・詳細・目的別おすすめ（計4箇所） |
+
+#### 配置に適した文脈
+
+- マイナー通貨ペア・エキゾチック通貨の話題
+- TradingView連携の話題
+- 中級者以上向けの本格的な分析環境の話題
+- マルチアセット投資（FX+株+CFD）の話題
+- API連携・プログラミングトレードの話題
