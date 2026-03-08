@@ -1,6 +1,6 @@
 # テクラボFX - タスクリスト
 
-最終更新: 2026-03-07
+最終更新: 2026-03-08
 
 ## 優先度: 高
 
@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| 移動平均線クロス戦略 | fx-ma-cross-strategy | - |
-| フィボナッチ入門 | fx-fibonacci-guide | - |
-| デイトレード入門 | fx-daytrading-guide | - |
 | 週末分析の習慣 | fx-weekend-analysis | - |
+| スイングトレード入門 | fx-swing-trading-guide | - |
+| チャートパターン実践 | fx-chart-patterns | - |
+| 通貨強弱分析 | fx-currency-strength | - |

@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-07
+最終更新: 2026-03-08
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（37記事完了）
+### 記事作成（40記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -50,6 +50,9 @@
 - [x] MT4の使い方ガイド（fx-mt4-setup-guide）
 - [x] スキャルピング入門（fx-scalping-guide）
 - [x] 投資の選択肢比較（fx-investment-comparison）
+- [x] フィボナッチ入門（fx-fibonacci-guide）
+- [x] デイトレード入門（fx-daytrading-guide）
+- [x] 移動平均線クロス戦略（fx-ma-cross-strategy）
 
 ## フェーズ3: 収益化 [進行中]
 
