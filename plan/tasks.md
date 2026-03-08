@@ -1,6 +1,6 @@
 # テクラボFX - タスクリスト
 
-最終更新: 2026-03-08
+最終更新: 2026-03-09
 
 ## 優先度: 高
 
@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| 週末分析の習慣 | fx-weekend-analysis | - |
-| スイングトレード入門 | fx-swing-trading-guide | - |
-| チャートパターン実践 | fx-chart-patterns | - |
 | 通貨強弱分析 | fx-currency-strength | - |
+| ピボットポイント入門 | fx-pivot-points | - |
+| FXと税金 | fx-tax-guide | - |
+| ブレイクアウト戦略 | fx-breakout-strategy | - |
