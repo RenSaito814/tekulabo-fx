@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-09
+最終更新: 2026-03-10
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（43記事完了）
+### 記事作成（46記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -56,6 +56,9 @@
 - [x] 週末分析の習慣（fx-weekend-analysis）
 - [x] スイングトレード入門（fx-swing-trading-guide）
 - [x] チャートパターン実践ガイド（fx-chart-patterns）
+- [x] FXの税金と確定申告（fx-tax-guide）
+- [x] ブレイクアウト戦略（fx-breakout-strategy）
+- [x] 通貨強弱分析入門（fx-currency-strength）
 
 ## フェーズ3: 収益化 [進行中]
 

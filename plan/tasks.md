@@ -1,6 +1,6 @@
 # テクラボFX - タスクリスト
 
-最終更新: 2026-03-09
+最終更新: 2026-03-10
 
 ## 優先度: 高
 
@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| 通貨強弱分析 | fx-currency-strength | - |
 | ピボットポイント入門 | fx-pivot-points | - |
-| FXと税金 | fx-tax-guide | - |
-| ブレイクアウト戦略 | fx-breakout-strategy | - |
+| オーダーブック/板情報 | fx-order-book-guide | - |
+| ボラティリティ分析 | fx-volatility-guide | - |
+| トレーリングストップ | fx-trailing-stop-guide | - |
