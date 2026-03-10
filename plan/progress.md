@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-10
+最終更新: 2026-03-11
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -70,7 +70,7 @@
 - [x] シストレセレクト365提携・リンク配置（fx-auto-trading-guide）
 - [x] TOSSY提携・リンク配置（fx-cfd-guide, fx-investment-comparison）
 - [x] broker-ctaショートコード作成・全記事配置
-- [ ] Google AdSense申請
+- [x] Google AdSense申請（審査中）
 - [ ] 他ASP登録（アクセストレード、afb、TCSアフィリエイト）
 
 ### 集客
