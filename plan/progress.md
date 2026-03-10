@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（46記事完了）
+### 記事作成（49記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -59,6 +59,9 @@
 - [x] FXの税金と確定申告（fx-tax-guide）
 - [x] ブレイクアウト戦略（fx-breakout-strategy）
 - [x] 通貨強弱分析入門（fx-currency-strength）
+- [x] ピボットポイント入門（fx-pivot-points）
+- [x] ボラティリティ分析入門（fx-volatility-guide）
+- [x] トレーリングストップ入門（fx-trailing-stop-guide）
 
 ## フェーズ3: 収益化 [進行中]
 

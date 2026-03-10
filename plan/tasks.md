@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| ピボットポイント入門 | fx-pivot-points | - |
 | オーダーブック/板情報 | fx-order-book-guide | - |
-| ボラティリティ分析 | fx-volatility-guide | - |
-| トレーリングストップ | fx-trailing-stop-guide | - |
+| エリオット波動入門 | fx-elliott-wave-guide | - |
+| 一目均衡表入門 | fx-ichimoku-guide | - |
+| ハーモニックパターン | fx-harmonic-patterns | - |
