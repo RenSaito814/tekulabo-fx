@@ -1,3 +1,8 @@
+{{- /* タクソノミーページ（タグ・カテゴリ・シリーズ）をnoindex */ -}}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
+
 {{- /* AdSense - 審査用コード */ -}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4857288049420286"
