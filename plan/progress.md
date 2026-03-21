@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-20
+最終更新: 2026-03-21
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（53記事完了）
+### 記事作成（54記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -66,6 +66,7 @@
 - [x] 取引時間帯ガイド（fx-trading-sessions）
 - [x] エリオット波動入門（fx-elliott-wave-guide）
 - [x] ハーモニックパターン入門（fx-harmonic-patterns）
+- [x] ストキャスティクス入門（fx-stochastic-guide）
 
 ## フェーズ3: 収益化 [進行中]
 
