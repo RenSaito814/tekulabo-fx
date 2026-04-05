@@ -8,7 +8,6 @@ categories:
 tags:
   - 初心者向け
   - ダウ理論
-  - テクニカル分析
   - トレンド分析
 ShowToc: true
 ---

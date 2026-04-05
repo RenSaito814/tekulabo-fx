@@ -8,7 +8,6 @@ categories:
 tags:
   - 初心者向け
   - オーダーブック
-  - テクニカル分析
   - サポート・レジスタンス
 ShowToc: true
 ---

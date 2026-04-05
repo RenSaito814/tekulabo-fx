@@ -8,7 +8,6 @@ categories:
 tags:
   - 初心者向け
   - RCI
-  - テクニカル分析
   - オシレーター
 ShowToc: true
 ---
