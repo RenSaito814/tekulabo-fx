@@ -1,6 +1,6 @@
 # テクラボFX - タスクリスト
 
-最終更新: 2026-03-11
+最終更新: 2026-04-05
 
 ## 優先度: 高
 
@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| オーダーブック/板情報 | fx-order-book-guide | - |
-| エリオット波動入門 | fx-elliott-wave-guide | - |
-| 一目均衡表入門 | fx-ichimoku-guide | - |
-| ハーモニックパターン | fx-harmonic-patterns | - |
+| ウィリアムズ%R入門 | fx-williams-r-guide | - |
+| ギャップ（窓）トレード | fx-gap-trading | - |
+| 両建て戦略 | fx-hedging-strategy | - |
+| コピートレード入門 | fx-copy-trading-guide | - |

@@ -1,6 +1,6 @@
 # テクラボFX - 進捗状況
 
-最終更新: 2026-03-22
+最終更新: 2026-04-05
 
 ## フェーズ1: サイト構築 [完了]
 
@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（55記事完了）
+### 記事作成（59記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -68,6 +68,10 @@
 - [x] ハーモニックパターン入門（fx-harmonic-patterns）
 - [x] ストキャスティクス入門（fx-stochastic-guide）
 - [x] ADX入門（fx-adx-guide）
+- [x] パラボリックSAR入門（fx-parabolic-sar-guide）
+- [x] ダウ理論入門（fx-dow-theory-guide）
+- [x] オーダーブック入門（fx-order-book-guide）
+- [x] RCI入門（fx-rci-guide）
 
 ## フェーズ3: 収益化 [進行中]
 
