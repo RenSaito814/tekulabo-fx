@@ -11,7 +11,7 @@
 
 ## フェーズ2: コンテンツ充実 [進行中]
 
-### 記事作成（59記事完了）
+### 記事作成（60記事完了）
 
 - [x] FX初心者ロードマップ（fx-learning-roadmap）
 - [x] FXの基本（fx-basics-what-is-fx）
@@ -72,6 +72,7 @@
 - [x] ダウ理論入門（fx-dow-theory-guide）
 - [x] オーダーブック入門（fx-order-book-guide）
 - [x] RCI入門（fx-rci-guide）
+- [x] ウィリアムズ%R入門（fx-williams-r-guide）
 
 ## フェーズ3: 収益化 [進行中]
 

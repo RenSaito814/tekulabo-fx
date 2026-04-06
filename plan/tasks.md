@@ -25,7 +25,7 @@
 
 | テーマ | ファイル名（案） | アフィリエイト配置 |
 |--------|-----------------|-----------------|
-| ウィリアムズ%R入門 | fx-williams-r-guide | - |
+| エンベロープ入門 | fx-envelope-guide | - |
 | ギャップ（窓）トレード | fx-gap-trading | - |
 | 両建て戦略 | fx-hedging-strategy | - |
 | コピートレード入門 | fx-copy-trading-guide | - |
